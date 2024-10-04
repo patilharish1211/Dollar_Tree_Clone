@@ -1,0 +1,130 @@
+.round-container-1 {
+    height: 300px;
+    width: 300px;
+    background-color: #D3EFFC;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+.round-container-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.roundinfo-1  {
+    margin-top: 15px;
+    margin-left: 130px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.roundinfo-1:hover {
+    text-decoration: underline;
+}
+
+.round-container-2 {
+    height: 300px;
+    width: 300px;
+    background-color: #D3EFFC;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+.round-container-2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.roundinfo-2 {
+    margin-top: 15px;
+    margin-left: 90px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.roundinfo-2:hover {
+    text-decoration: underline;
+}
+
+
+.round-container-3 {
+    height: 300px;
+    width: 300px;
+    background-color: #D3EFFC;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    cursor: pointer;
+}
+.round-container-3 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.roundinfo-3 {
+    margin-top: 15px;
+    margin-left: 135px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.roundinfo-3:hover {
+    text-decoration: underline;
+}
+
+/* .roundinfo-1, .roundinfo-2, .roundinfo-3  :hover{
+    text-decoration: overline;
+} */
+
+
+.box-1:hover h3{
+    text-decoration: underline;
+}
+.box-2:hover h3 {
+    text-decoration: underline;
+}
+
+.fifthicon:hover  p {
+    text-decoration: underline;
+}
+
+.sixthicon:hover  p {
+    text-decoration: underline;
+}
+
+.seventhicon:hover  p {
+    text-decoration: underline;
+}
+
+.eighticon:hover  p {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.forgot-password {
+    color: #12823B;
+    font-size: 12px;
+  }
+  
+  .btn-primary {
+    background-color: #0098DB;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+
+
